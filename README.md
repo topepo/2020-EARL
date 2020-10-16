@@ -1,2 +1,2 @@
 # 2020-EARL
-Talk slide for EARL 2020 keynote
+Slides for EARL 2020 keynote on tidymodels
